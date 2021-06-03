@@ -25,7 +25,7 @@ SECRET_KEY = 'gb=li63x_$65ge=a*)^0(bmv^0l@0%28f1*&)eso&n^hjjvg7m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todoapp-hema.herokuapp.com','127.0.0.1']
 
 
 # Application definition
